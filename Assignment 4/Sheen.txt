@@ -1,8 +1,0 @@
-This file has 958 characters. 
-This file has 6 lines. 
-Line 0 has 19 words. 
-Line 1 has 13 words. 
-Line 2 has 34 words. 
-Line 3 has 35 words. 
-Line 4 has 9 words. 
-Line 5 has 34 words. 
